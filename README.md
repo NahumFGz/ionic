@@ -1,2 +1,4 @@
 # ionic
-Curso-IONIC
+Curso-IONIC  
+
+- ionic serve  
